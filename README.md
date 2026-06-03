@@ -7,6 +7,17 @@ A clean Deep Q-Network project where an agent learns to catch a falling ball in 
 Project link: https://github.com/EbiAraz/-Catch-Game-with-DQN
 Run script link: https://github.com/EbiAraz/-Catch-Game-with-DQN/blob/main/Catch%20Game(DQN).py
 
+## Run and Train
+
+- Run project: https://github.com/EbiAraz/-Catch-Game-with-DQN/blob/main/Catch%20Game(DQN).py
+- Train model: https://github.com/EbiAraz/-Catch-Game-with-DQN#run-options
+
+Use this command to start the app and choose training from the menu:
+
+```bash
+python "Catch Game(DQN).py"
+```
+
 ## Features
 
 - Custom Catch environment built with Gymnasium API
